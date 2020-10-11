@@ -28,6 +28,6 @@ focus on how this adjustment affected the school district analysis was altered. 
 By effectively removing the ninth graders' scores, it was found that the average scores for the math and reading exams increased by approximately one-tenth of
 a percent for the school.
 
-![Original Analysis Output]()
+![Original Analysis Output](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/THS_original_ouput.png)
 
 ![Adjusted Analysis Output]()
