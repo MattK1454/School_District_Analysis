@@ -11,7 +11,7 @@ After replacing all of the ninth graders' scores with "NaN" (as shown below):
 
 ![Code for score replacement](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/Grade_replacement_code.png)
 
-![Replacement output]()
+![Replacement output](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/Grade_replacement_output.png)
 
 the analysis was rerun. Since all of the ninth graders from Thomas High School had their scores replaced the particular focus of the analysis re-run was the
 focus on how this adjustment affected the school district analysis was altered. Primary areas of focus were:
