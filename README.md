@@ -32,20 +32,20 @@ These are the screenshot images of the metrics before and after the Thomas High 
 
 ![Adjusted Analysis Output](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/THS_modified_ouput.png)
 
-### Average math and reading scores at Thomas High School
+- Average math and reading scores at Thomas High School
 
 By effectively removing the ninth graders' scores, in should be noted that the average math exam score for the district dropped by one-tenth of a percentage point.
 The average score for the district on the reading exam was not altered.
 
-### Percentage of students passing according to math scores
+ - Percentage of students passing according to math scores
 
 Following the data adjustment, it can be noted that the percentage of students passing the math exam was lowered by two-tenths of a percentage point following the adjustment.
 
-### Percentage of students passing according to reading scores
+- Percentage of students passing according to reading scores
 
 Following the data adjustment, the resulting percentage of students in the district who passed the reading exam was dropped by three-tenths of a percentage point.
 
-### Overall percentage of students who passed both math and reading
+- Overall percentage of students who passed both math and reading
 
 Due to the data adjustment of replacing the ninth graders' scores from Thomas High School with "NaN" values, the overall percentage of students who passed both the reading
 and math exam in the district dropped by one-tenth of a percentage point.
