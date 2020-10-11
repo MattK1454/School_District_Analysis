@@ -68,3 +68,5 @@ Reviewing the analysis of the school district metrics after replacing the Thomas
 4. The percentage of students who passed both the math and reading exams for the districts was lowered by one-tenth of a percentage point.
 
 ## References
+1. Find your&nbsp;. (n.d.). Retrieved October 11, 2020, from https://www.citationmachine.net/apa/cite-a-website
+2. Module 4 Challenge. (n.d.). Retrieved October 11, 2020, from https://courses.bootcampspot.com/courses/453/assignments/5595?module_item_id=79176
