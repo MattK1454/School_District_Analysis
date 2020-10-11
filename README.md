@@ -32,9 +32,13 @@ These are the screenshot images of the metrics before and after the Thomas High 
 
 ![Adjusted Analysis Output](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/THS_modified_ouput.png)
 
--**Total Students**
+- **Total Students**
 
--**Total Budget**
+As the data adjustment affected the scores of the ninth-graders but did not remove them from the count of the school students, the total number of students in the district should not have been altered.
+
+- **Total Budget**
+
+As the data adjustment dealt with the scores of students and did not alter the budgets of schools, the total budget value remained unaffected by the data adjustment.
 
 - **Average math and reading scores**
 
