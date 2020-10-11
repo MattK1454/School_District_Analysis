@@ -49,3 +49,11 @@ Following the data adjustment, the resulting percentage of students in the distr
 
 Due to the data adjustment of replacing the ninth graders' scores from Thomas High School with "NaN" values, the overall percentage of students who passed both the reading
 and math exam in the district dropped by one-tenth of a percentage point.
+
+- **Percentage passing math, reading, and overall by budget per student**
+
+- **Percentage passing math, reading, and overall by school size**
+
+- **Placement of schools overall by score values relative to each other**
+
+## Summary
