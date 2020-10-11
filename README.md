@@ -30,4 +30,4 @@ a percent for the school.
 
 ![Original Analysis Output](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/THS_original_ouput.png)
 
-![Adjusted Analysis Output]()
+![Adjusted Analysis Output](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/THS_modified_ouput.png)
