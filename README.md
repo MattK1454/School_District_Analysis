@@ -9,7 +9,7 @@ ninth grade students need to be replaced with "NaN" values and the analysis for 
 ## Analysis Results
 After replacing all of the ninth graders' scores with "NaN" (as shown below):
 
-![Code for score replacement]()
+![Code for score replacement](https://github.com/MattK1454/School_District_Analysis/blob/main/Resources/Grade_replacement_code.png)
 
 ![Replacement output]()
 
